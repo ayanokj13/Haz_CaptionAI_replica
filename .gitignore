@@ -1,0 +1,21 @@
+# Ignore Videos
+*.mp4
+*.mov
+*.avi
+
+# Ignore Temporary Data
+transcription_data.json
+visual_plan.json
+settings.json
+process_log.txt
+
+# Ignore Downloaded Assets
+assets/
+
+# Ignore Python Cache
+__pycache__/
+*.pyc
+
+# Ignore Environment (if you use one)
+venv/
+.env
